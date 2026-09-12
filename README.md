@@ -1,5 +1,7 @@
 # Grooming Concept — Travel Kit landing
 
+Izvoz od 11. septembra 2026 (sa poslednjim izmenama teksta).
+
 Statičan sajt, četiri samostalna HTML fajla. Nema build koraka — prebaciti ceo folder u
 repozitorijum i uključiti GitHub Pages.
 
